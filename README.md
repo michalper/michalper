@@ -32,7 +32,7 @@ PHP · Magento · Symfony · Laravel · Silex · MySQL · PostgreSQL · Elastics
 
 **[laravel-ddd-invoices](https://github.com/michalper/laravel-ddd-invoices)** — Modular Laravel 13 app: an Invoices module in DDD, with a transactional outbox and a notification-driven send workflow.
 
-**[wskz](https://github.com/michalper/wskz)** — AI-powered message categorization & routing PoC — Symfony, a local LLM via Ollama, function-calling.
+**[ai-message-router](https://github.com/michalper/ai-message-router)** — AI-powered message categorization & routing PoC — Symfony, a local LLM via Ollama, function-calling.
 
 **[open-mercato-marketing-automation](https://github.com/michalper/open-mercato-marketing-automation)** — my marketing automation module built on top of Open Mercato, an AI-native CRM/ERP framework.
 
