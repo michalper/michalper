@@ -8,6 +8,22 @@ For the past three years I've worked daily with AI coding assistants, commercial
 
 **Currently open to new opportunities** — [LinkedIn](https://linkedin.com/in/michalper/)
 
+## Highlights
+
+**A technology department of 13** — backend, frontend, DevOps, QA and a Scrum Master; recruitment, mentoring, 1:1s and performance reviews, reporting directly to the CEO (STATSCORE).
+
+**Built the DevOps function from scratch** — it didn't exist before; grew it to a 2-person team, enabling company-wide dockerization and Kubernetes adoption (STATSCORE).
+
+**26 custom Magento modules and 30+ API integrations** delivered for B2B/B2C clients, including payment integrations (Adyen, PayPal, Braintree).
+
+**A Zapier-style integration hub** (Silex, RabbitMQ, MongoDB) connecting every integration available in iPresso's marketing automation platform — used by clients including LOT, eSky and Nutricia.
+
+**Rebuilt a live data pipeline onto message queues** — it used to drop messages and throw 500 errors under load, now it's fault-tolerant with a sub-second latency requirement (STATSCORE).
+
+## Skills
+
+PHP · Magento · Symfony · Laravel · Silex · MySQL · PostgreSQL · Elasticsearch · RabbitMQ · Redis · MongoDB · Docker · PHPUnit · Claude Code
+
 ## Projects
 
 **[ordo](https://github.com/michalper/ordo)** — B2B + B2C marketing automation for Magento Open Source: campaign engine, reorder reminders, abandoned cart, SMS/WhatsApp/push.
@@ -22,4 +38,12 @@ For the past three years I've worked daily with AI coding assistants, commercial
 
 ## Certifications
 
-9 Anthropic certifications: AI Fluency, Claude API, Claude Code, MCP, Subagents, Agent Skills, Claude Cowork.
+**Anthropic** — Agentic AI Development, 9 certifications: AI Fluency, Claude API, Claude Code, MCP, Subagents, Agent Skills, Claude Cowork.
+
+**Adobe** — Adobe Certified Professional: Adobe Commerce Developer.
+
+**Lightbend** — Reactive Architecture (3 modules): DDD, CQRS & Event Sourcing, Reactive Microservices.
+
+**MongoDB University** — 4 courses (M001, M100, M103, M112).
+
+**Redis** — Certified Developer + 5 certifications (RU101, RU202, RU203, RU301, RU330).
