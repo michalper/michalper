@@ -22,7 +22,7 @@ For the past three years I've worked daily with AI coding assistants, commercial
 
 ## Skills
 
-PHP · Magento · Symfony · Laravel · Silex · MySQL · PostgreSQL · Elasticsearch · RabbitMQ · Redis · MongoDB · APIs & system integration · Feature flags · Docker · PHPUnit · Monitoring & observability (New Relic, Graylog, Grafana, Sentry, Kibana) · Scrum/Kanban · Claude Code
+PHP · Magento · Symfony · Laravel · Silex · MySQL · PostgreSQL · Elasticsearch · RabbitMQ · Redis · MongoDB · APIs & system integration · Feature flags · Docker · PHPUnit · Codeception/Selenium (MFTF) · Monitoring & observability (New Relic, Graylog, Grafana, Sentry, Kibana) · Scrum/Kanban · Claude Code
 
 ## Projects
 
