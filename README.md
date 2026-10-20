@@ -30,6 +30,8 @@ PHP · Magento · Symfony · Laravel · Silex · MySQL · PostgreSQL · Elastics
 
 **[mcp-magento-audit](https://github.com/michalper/mcp-magento-audit)** — MCP server giving an AI agent tools to audit Magento 2 / Adobe Commerce projects for update compatibility, module quality, and dependency security.
 
+**[magento-upgrade-advisor](https://github.com/michalper/magento-upgrade-advisor)** — turns mcp-magento-audit's upgrade-plan data into a prioritized remediation narrative via Claude, with a programmatic faithfulness check (every blocker cited by index, exactly once — no second model call judging the first) and a model-comparison eval harness.
+
 **[mcp-job-search](https://github.com/michalper/mcp-job-search)** — MCP server automating job-search mechanics (multi-source search, posting fetch, CV rendering, a configurable anti-fabrication linter, application-registry tracking) while leaving drafting and fact-checking to the calling assistant.
 
 **[laravel-ddd-invoices](https://github.com/michalper/laravel-ddd-invoices)** — Modular Laravel 13 app: an Invoices module in DDD, with a transactional outbox and a notification-driven send workflow.
