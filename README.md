@@ -48,7 +48,7 @@ PHP · Magento · Symfony · Laravel · Silex · MySQL · PostgreSQL · Elastics
 
 **Adobe** — Adobe Certified Professional: Adobe Commerce Developer.
 
-**Lightbend** — Reactive Architecture (3 modules): DDD, CQRS & Event Sourcing, Reactive Microservices.
+**Lightbend (now Akka)** — Reactive Architecture (3 modules): DDD, CQRS & Event Sourcing, Reactive Microservices.
 
 **MongoDB University** — 4 courses (M001, M100, M103, M112).
 
