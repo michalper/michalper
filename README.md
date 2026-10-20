@@ -16,6 +16,8 @@ For the past three years I've worked daily with AI coding assistants, commercial
 
 **26 custom Magento modules and 30+ API integrations** delivered for B2B/B2C clients, including payment integrations (Adyen, PayPal, Braintree).
 
+**A real-time marketing engine** (Silex, Redis, RabbitMQ) I designed and built myself — reacts to real-world events and context, from weather-triggered campaigns to on-site personalization, and also powers content/ad recommendations for TVN. Still a core, [publicly advertised](https://www.ipresso.pl/funkcjonalnosci/real-time-marketing) feature of iPresso's platform today.
+
 **A Zapier-style integration hub** (Silex, RabbitMQ, MongoDB) connecting every integration available in iPresso's marketing automation platform — used by clients including LOT, eSky and Nutricia.
 
 **Rebuilt a live data pipeline onto message queues** — it used to drop messages and throw 500 errors under load, now it's fault-tolerant with a sub-second latency requirement (STATSCORE).
