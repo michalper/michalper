@@ -20,8 +20,6 @@ For the past three years I've worked daily with AI coding assistants, commercial
 
 **A Zapier-style integration hub** (Silex, RabbitMQ, MongoDB) connecting every integration available in iPresso's marketing automation platform — used by clients including LOT, eSky and Nutricia. Still [publicly offered](https://www.ipresso.com/features/integrations) as the platform's integrations hub today.
 
-**A mass-mailing microservice** (Silex, RabbitMQ) handling millions of email/SMS/MMS/audio sends, including a self-written mechanism for randomized A/B/X variant assignment.
-
 **Rebuilt the live data pipeline for [ScoutsFeed](https://www.statscore.com/products/scoutsfeed/)**, STATSCORE's play-by-play sports-data product — it used to drop messages and throw 500 errors under load, now it's fault-tolerant with a sub-second latency requirement.
 
 ## Skills
