@@ -2,9 +2,9 @@
 
 Senior PHP Developer & Solution Architect, Katowice, Poland.
 
-14 years of backend engineering — Magento, Symfony, Laravel — including a path from System Architect through CTO to Technology Leader at STATSCORE. I design systems for scale: event-driven architectures, API integrations, payment and messaging pipelines.
+14 years of backend engineering — Magento, Symfony, Laravel — including a run from System Architect through CTO to Technology Leader at STATSCORE, where I ran a 13-person technology department reporting to the CEO.
 
-For the past three years I've worked daily with AI coding assistants, commercially with Claude Code since December 2025. I build the tools I use, not just the features they're asked for: a Claude Code plugin with its own skill, MCP servers for auditing Magento projects and automating job search, guardrails against hallucinated output.
+Three years of daily work with AI coding assistants, commercially with Claude Code since December 2025. Public results: [ordo](https://github.com/michalper/ordo) — a marketing-automation engine for Magento with LLM-generated content (Ollama), 766 commits, full test suite and CI/CD; [mcp-magento-audit](https://github.com/michalper/mcp-magento-audit) (PyPI) for auditing Magento/Adobe Commerce projects; [mcp-job-search](https://github.com/michalper/mcp-job-search) for the mechanics of job hunting.
 
 **Currently open to new opportunities** — [LinkedIn](https://linkedin.com/in/michalper/)
 
