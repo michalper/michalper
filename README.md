@@ -34,6 +34,8 @@ PHP · Magento · Symfony · Laravel · Silex · MySQL · PostgreSQL · Elastics
 
 **[magento-upgrade-advisor](https://github.com/michalper/magento-upgrade-advisor)** — turns mcp-magento-audit's upgrade-plan data into a prioritized remediation narrative via Claude, with a programmatic faithfulness check (every blocker cited by index, exactly once — no second model call judging the first) and a model-comparison eval harness.
 
+**[magewiki](https://github.com/michalper/magewiki)** — AI-powered catalog and chat agent for Magento 2 modules: scans module metadata into a Postgres knowledge base (pgvector, hybrid retrieval) and answers architecture questions with citations, plus quality/security/upgrade-readiness checks.
+
 **[mcp-job-search](https://github.com/michalper/mcp-job-search)** — MCP server automating job-search mechanics (multi-source search, posting fetch, CV rendering, a configurable anti-fabrication linter, application-registry tracking) while leaving drafting and fact-checking to the calling assistant.
 
 **[laravel-ddd-invoices](https://github.com/michalper/laravel-ddd-invoices)** — Modular Laravel 13 app: an Invoices module in DDD, with a transactional outbox and a notification-driven send workflow.
