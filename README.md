@@ -4,7 +4,7 @@ Senior PHP Developer & Solution Architect, Katowice, Poland.
 
 14 years of backend engineering — Magento, Symfony, Laravel — including a run from System Architect through CTO to Technology Leader at STATSCORE, where I ran a 13-person technology department reporting to the CEO.
 
-Three years of daily work with AI coding assistants, commercially with Claude Code since December 2025. Public results: [ordo](https://github.com/michalper/ordo) — a marketing-automation engine for Magento with LLM-generated content (Ollama), 766 commits, full test suite and CI/CD; [mcp-magento-audit](https://github.com/michalper/mcp-magento-audit) (PyPI) for auditing Magento/Adobe Commerce projects; [magewiki](https://github.com/michalper/magewiki), an AI catalog and chat agent for Magento 2 modules; [mcp-job-search](https://github.com/michalper/mcp-job-search) for the mechanics of job hunting.
+Three years of daily work with AI coding assistants, commercially with Claude Code since December 2025. Public results: [ordo](https://github.com/michalper/ordo) ([site](https://ordo.marketing)) — a marketing-automation engine for Magento with LLM-generated content (Ollama), 766 commits, full test suite and CI/CD; [mcp-magento-audit](https://github.com/michalper/mcp-magento-audit) (PyPI) for auditing Magento/Adobe Commerce projects; [magewiki](https://github.com/michalper/magewiki), an AI catalog and chat agent for Magento 2 modules; [mcp-job-search](https://github.com/michalper/mcp-job-search) for the mechanics of job hunting.
 
 **Currently open to new opportunities** — [LinkedIn](https://linkedin.com/in/michalper/)
 
@@ -28,7 +28,7 @@ PHP · Magento · Symfony · Laravel · Silex · MySQL · PostgreSQL · Elastics
 
 ## Projects
 
-**[ordo](https://github.com/michalper/ordo)** — B2B + B2C marketing automation for Magento Open Source: campaign engine, reorder reminders, abandoned cart, SMS/WhatsApp/push.
+**[ordo](https://github.com/michalper/ordo)** ([site](https://ordo.marketing)) — B2B + B2C marketing automation for Magento Open Source: campaign engine, reorder reminders, abandoned cart, SMS/WhatsApp/push.
 
 **[mcp-magento-audit](https://github.com/michalper/mcp-magento-audit)** — MCP server giving an AI agent tools to audit Magento 2 / Adobe Commerce projects for update compatibility, module quality, and dependency security.
 
